@@ -1,1 +1,1 @@
-Start up page of a stratup
+front end work of a startup
